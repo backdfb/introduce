@@ -7,7 +7,7 @@ const questions = [
   {
     id: 2,
     title: '스킬과 도구는?',
-    info: 'HTML, CSS, JavaScipt, React, MySql etc',
+    info: 'HTML, CSS, JavaScipt, React, MySql, GitHub etc',
   },
   {
     id: 3,
